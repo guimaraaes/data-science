@@ -8,7 +8,7 @@
 # Sara Guimarães 
 
 
-<p align="center">
+<p align="center"> 
   <img src="/img/github_cover.png" >
 </p>
 

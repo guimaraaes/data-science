@@ -18,10 +18,12 @@ Aqui você encontra os *notebooks* e códigos Python que desenvolvo enquanto est
 ## Notebooks:
 Veja os meus trabalhos:
 
-* **Google App Store:** https://bit.ly/2L2cMwy
-* **Suicides Rates:** https://bit.ly/2Li5pzY
-* **Titanic:** https://bit.ly/2Ubr5SH
-* **MNIST:** https://bit.ly/31KWSMN
+* **Google App Store:** https://bityli.com/ytJEJ
+* **Suicides Rates:** https://bit.ly/3o5LRBJ
+* **Titanic:** https://bit.ly/3m3YXgV
+* **MNIST:** 
+* **Spotify:** https://bit.ly/3m0xMne
+
 
 
 ---

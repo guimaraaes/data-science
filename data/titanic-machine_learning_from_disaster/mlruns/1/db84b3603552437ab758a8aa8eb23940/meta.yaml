@@ -1,0 +1,15 @@
+artifact_uri: file:///content/gdrive/My%20Drive/Kaggle/titanic-machine_learning_from_disaster/mlruns/1/db84b3603552437ab758a8aa8eb23940/artifacts
+end_time: 1604082507062
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: db84b3603552437ab758a8aa8eb23940
+run_uuid: db84b3603552437ab758a8aa8eb23940
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1604082506356
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,23 @@
+artifact_path: model
+flavors:
+  python_function:
+    env: conda.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    python_version: 3.6.9
+  sklearn:
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 0.23.2
+run_id: 5800291f6f344c578ae612ac57dd79f0
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  type: dataframe
+signature:
+  inputs: '[{"name": "Pclass", "type": "long"}, {"name": "Sex", "type": "string"},
+    {"name": "Age", "type": "double"}, {"name": "Fare", "type": "double"}, {"name":
+    "Embarked", "type": "string"}, {"name": "Treatment", "type": "string"}, {"name":
+    "Family", "type": "long"}]'
+  outputs: null
+utc_time_created: '2020-10-30 18:43:51.652744'

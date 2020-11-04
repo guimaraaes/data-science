@@ -1,9 +1,0 @@
-channels:
-- defaults
-- conda-forge
-dependencies:
-- python=3.6.9
-- pip
-- pip:
-  - pycaret==2.2.0
-name: craedit1-env

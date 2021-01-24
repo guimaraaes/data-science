@@ -1,18 +1,8 @@
-<p align="center">
-    <a href="guimaraaes.github.io/sara-guimaraes/" alt="Contributors">
-        github.io
-    </a>
-    
-</p>
-
-# Sara Guimarães 
 
 
-<p align="center"> 
-  <img src="/img/github_cover.png" >
-</p>
+# data-science
+Repositórios com os notebooks do Colab com aplicações de data science. Os projetos variam desde databases/competições do [Kaggle](https://www.kaggle.com/) até as aplicações sugeridas nas aulas da [Escola de Data Science do Sigmoidal](https://escola.sigmoidal.ai/).
 
-Aqui você encontra os *notebooks* e códigos Python que desenvolvo enquanto estudo Data Science. Os arquivos são baseados em databases do Kaggle na maioria dos casos e também nas aulas da Escola de Data Science do Sigmoidal.
 
  
 ## Notebooks:

@@ -1,4 +1,6 @@
-
+<p  align="center">
+ <img src='https://github.com/guimaraaes/data-science/blob/master/assets/ai_image.png' height=200/>
+ </p>
 
 # data-science
 Repositórios com os notebooks do Colab com aplicações de data science. Os projetos variam desde databases/competições do [Kaggle](https://www.kaggle.com/), as aplicações sugeridas nas aulas da [Escola de Data Science](https://escola.sigmoidal.ai/) ou no [Data Science na Prática](https://curso.datasciencenapratica.com/) ambos cursos do Sigmoidal.

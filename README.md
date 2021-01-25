@@ -1,5 +1,5 @@
 <p  align="center">
- <img src='https://github.com/guimaraaes/data-science/blob/master/assets/data.png' height=200/>
+ <img src='https://github.com/guimaraaes/data-science/blob/master/assets/data.png' height=300/>
  </p>
 
 # data-science
